@@ -7,8 +7,8 @@ A fully documented multi-tier enterprise network simulation designed to showcase
 ✅ 3-Tier Architecture: Core, distribution, and access layers with routing and segmentation
 ✅ DMZ + Security: Public web tier, firewalls, ACLs, and VPN tunneling
 ✅ Cloud-Friendly: Infrastructure as Code (Terraform/Ansible) templates for repeatable builds
-✅ Monitoring & Logging: SNMP, syslog, and traffic flow analysis
-✅ Redundancy & Scaling: Load balancers, failover testing, and HA concepts
+✅ Monitoring \& Logging: SNMP, syslog, and traffic flow analysis
+✅ Redundancy \& Scaling: Load balancers, failover testing, and HA concepts
 ✅ Automation Ready: Configs version-controlled and reproducible
 
 ⚙️ Tech Stack
@@ -66,17 +66,17 @@ Test connectivity + routing between tiers
 
 📊 Roadmap
 
- Core, Distribution, Access layer simulation
+Core, Distribution, Access layer simulation
 
- VLANs, routing, ACLs
+VLANs, routing, ACLs
 
- Full DMZ implementation (public web + NAT)
+Full DMZ implementation (public web + NAT)
 
- VPN tunneling & advanced firewall rules
+VPN tunneling \& advanced firewall rules
 
- Load balancing & HA testing
+Load balancing \& HA testing
 
- Complete Terraform + Ansible automation
+Complete Terraform + Ansible automation
 
 🎯 Why This Project Matters
 
@@ -95,3 +95,4 @@ Pull requests welcome — more topologies, automation scripts, or monitoring int
 📜 License
 
 MIT License — free to use, modify, and share.
+

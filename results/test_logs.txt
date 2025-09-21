@@ -1,1 +1,0 @@
-Sample test log: All network checks passed.
