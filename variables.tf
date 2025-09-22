@@ -1,37 +1,19 @@
 variable "aws_region" {
-  description = "AWS region"
-  type        = string
-  default     = "us-east-1"
+  default = "us-east-1"
 }
 
 variable "vpc_cidr" {
-  description = "VPC CIDR block"
-  type        = string
+  default = "10.0.0.0/16"
 }
 
-variable "instance_type" {
-  description = "EC2 instance type"
-  type        = string
-  default     = "t3.micro"
+variable "public_subnet_cidr" {
+  default = "10.0.1.0/24"
 }
 
-variable "db_name" {
-  description = "Database name"
-  type        = string
+variable "private_subnet_cidr" {
+  default = "10.0.2.0/24"
 }
 
-variable "db_username" {
-  description = "Database username"
-  type        = string
-}
-
-variable "db_password" {
-  description = "Database password"
-  type        = string
-  sensitive   = true
-}
-
-variable "bucket_name" {
-  description = "S3 bucket name"
-  type        = string
+variable "key_name" {
+  description = "Name of the existing EC2 key pair"
 }
