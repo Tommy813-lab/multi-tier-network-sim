@@ -1,3 +1,8 @@
+
+ TL;DR: Fully documented multi-tier enterprise network simulation with Core → Distribution → Access layers, DMZ security, SNMP/syslog monitoring, and IaC automation via Terraform + Ansible. Ideal for cloud architects, network engineers, and SREs building resilient, scalable infrastructure.
+
+
+
 🏗️ Multi-Tier Network Simulation
 
 A fully documented multi-tier enterprise network simulation designed to showcase real-world networking, security, and automation skills. This project simulates a 3-tier network model (Core → Distribution → Access) and extends it with security, monitoring, and automation, making it ideal for both learning and professional portfolio use.
