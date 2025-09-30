@@ -170,3 +170,9 @@ MIT License — free to use, modify, and share.
 ## ?? Repo Hygiene Summary
 - Cleaned artifacts and renamed files for recruiter polish.
 
+
+<!-- Badges -->
+![Cert Alignment](https://img.shields.io/badge/cert-AWS-blue)
+![Repo Type](https://img.shields.io/badge/type-Infrastructure-green)
+![Last Updated](https://img.shields.io/badge/updated-2025--09--30-orange)
+
