@@ -1,6 +1,0 @@
-vpc_cidr      = "10.1.0.0/16"
-instance_type = "t3.medium"
-db_name       = "proddb"
-db_username   = "produser"
-db_password   = "prodpass123!"
-bucket_name   = "multi-tier-network-sim-prod"

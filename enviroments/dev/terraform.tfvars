@@ -1,6 +1,0 @@
-vpc_cidr      = "10.0.0.0/16"
-instance_type = "t3.micro"
-db_name       = "devdb"
-db_username   = "devuser"
-db_password   = "devpass123!"
-bucket_name   = "multi-tier-network-sim-dev"
