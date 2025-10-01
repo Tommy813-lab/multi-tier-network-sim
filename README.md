@@ -1,33 +1,43 @@
+# Multi-Tier Network Simulation
+
+![license](https://img.shields.io/github/license/Tommy813-lab/multi-tier-network-sim)
+![last-commit](https://img.shields.io/github/last-commit/Tommy813-lab/multi-tier-network-sim)
+![terraform](https://img.shields.io/badge/Terraform-validated-blueviolet)
+
+---
+
 ## TL;DR
-This repo demonstrates...
+A simulated **three-tier AWS network** (web, app, database) built with **Terraform**.  
+Demonstrates secure VPC design with public/private subnets, NAT gateways, routing tables, and least-privilege security groups.
 
-🏗️ Multi-Tier Network Simulation
+**Tech Stack:** Terraform · AWS VPC · EC2 · Subnets · NAT Gateway · Security Groups  
+**Skills Demonstrated:** Infrastructure as Code, cloud networking, segmentation, IAM best practices, secure subnet routing
 
+---
 
+## Features
+- **Tiered Subnet Layout:** Public, private, and database tiers with proper routing and NAT for controlled internet access.  
+- **Segmentation & Security:** Security groups and routing enforce traffic flow web → app → database.  
+- **Reusable IaC:** Terraform modules for subnets, routing, and instance provisioning.  
+- **Documentation:** Includes a network diagram to visualize the architecture.  
+- **Cost-Aware:** Uses small/free-tier EC2 instances, with teardown instructions to prevent surprise charges.  
 
+---
 
+## Quick Start
+```bash
+# Initialize Terraform
+terraform init
 
+# Preview changes
+terraform plan
 
+# Deploy (may incur AWS costs)
+terraform apply
 
+# Tear down when finished
+terraform destroy
 
-
-\## ⚡ TL;DR: Why This Repo Matters
-
-
-
-✅ Simulates enterprise-grade multi-tier network
-
-✅ Includes DMZ, VPN, ACLs, SNMP/syslog monitoring
-
-✅ Built with Terraform + Ansible for IaC automation
-
-✅ Ideal for cloud architects, SREs, and junior engineers
-
-
-
-
-
-A fully documented multi-tier enterprise network simulation designed to showcase real-world networking, security, and automation skills. This project simulates a 3-tier network model (Core → Distribution → Access) and extends it with security, monitoring, and automation, making it ideal for both learning and professional portfolio use.
 
 
 
