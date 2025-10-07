@@ -192,3 +192,27 @@ MIT License — free to use, modify, and share.
 
 ## Badges
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified-blue)](https://aws.amazon.com/certification/)
+
+---
+
+## 📸 Screenshots
+Recruiters want proof you built this project:
+- Architecture diagram: docs/screenshots/architecture.png
+- Simulation result: docs/screenshots/simulation_result.png
+- Terraform output: docs/screenshots/terraform_output.png
+
+*(Reminder: Add these screenshots after deployment)*
+
+
+---
+
+## 📸 Screenshots — Charles’s Recruiter Reminder
+This project is built to demonstrate advanced multi‑tier network design with real-world AWS practices.
+
+Here’s the visual proof recruiters should see:
+- Architecture diagram → docs/screenshots/architecture.png  
+- Simulation result → docs/screenshots/simulation_result.png  
+- Terraform deployment output → docs/screenshots/terraform_output.png  
+
+*(Charles reminder: Add screenshots after deployment to impress recruiters)*
+
