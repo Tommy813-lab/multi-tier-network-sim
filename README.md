@@ -1,3 +1,14 @@
+🧠 TL;DR — Multi-Tier Network Simulation with Terraform
+This repo simulates a multi-tier AWS VPC architecture using modular Terraform—designed for cert alignment, cost awareness, and recruiter clarity.
+- 🧭 Public, Private, and Isolated Subnets across multiple AZs
+- 🔐 Security Groups and NACLs enforce layered access control
+- 🧱 Modular Terraform structure with reusable 
+
+
+
+
+
+
 Multi-Tier Network Simulation
 This project is a hands-on simulation of a realistic multi-tier network architecture. It’s designed to give anyone — from students to cloud professionals — a clear view of how layered cloud environments are structured and secured. The project combines architecture diagrams, threat modeling, automation scripts, and a screenshot generator so you can visualize your network setup instantly.
 
