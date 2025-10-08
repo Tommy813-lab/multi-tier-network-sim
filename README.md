@@ -91,5 +91,6 @@ Contact
 Charles Bucher
 📧 
 📞 727-520-5966
-🔗 LinkedIn
-🔗 GitHub
+🔗 www.linkedin.com/in/charles-bucher-26598728b
+🔗 Github:https://github.com/charles-bucher
+
