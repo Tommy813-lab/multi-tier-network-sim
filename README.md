@@ -101,7 +101,7 @@ MIT License — see LICENSE file.
 Contact
 Charles Bucher
 📧 
-📞 727-520-5966
+📞 [Contact via LinkedIn]
 🔗 www.linkedin.com/in/charles-bucher-26598728b
 🔗 Github:https://github.com/charles-bucher
 
