@@ -105,3 +105,31 @@ Charles Bucher
 🔗 www.linkedin.com/in/charles-bucher-26598728b
 🔗 Github:https://github.com/charles-bucher
 
+
+
+## ✨ Key Features
+
+[![AWS](https://img.shields.io/badge/AWS-VPC_Networking-FF9900?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com)
+[![Terraform](https://img.shields.io/badge/Terraform-Infrastructure-7B42BC?style=for-the-badge&logo=terraform)](https://terraform.io)
+[![Security](https://img.shields.io/badge/Security-Enterprise_Grade-red?style=for-the-badge)](https://github.com/charles-bucher)
+
+
+- 🏗️ **Three-Tier Architecture** - Separate web, application, and database layers
+- 🔒 **Network Segmentation** - Public/private subnets with security isolation
+- 🌐 **NAT Gateway** - Secure outbound internet for private subnets
+- 🛡️ **Security Groups** - Least-privilege firewall rules per tier
+- 📊 **Traffic Simulation** - Scripts to demonstrate network flow
+- 🔍 **Security Auditing** - Automated firewall rule validation
+
+## 🛠️ Technologies & Skills Demonstrated
+
+**AWS Services:** VPC, Subnets, Route Tables, NAT Gateway, Security Groups, NACLs  
+**Networking:** CIDR planning, routing, network segmentation, traffic control  
+**Security:** Defense in depth, least privilege access, security group design  
+**Infrastructure:** Terraform modules, multi-tier architecture, scalable design
+
+## 📄 License
+
+MIT License - Free to use for learning and reference.
+
+See [LICENSE](LICENSE) for details.
