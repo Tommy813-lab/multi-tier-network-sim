@@ -1,5 +1,5 @@
 🏗️ AWS Multi-Tier VPC Architecture
-production-ready Network Design with Public/Private Subnet Segmentation
+productionproduction-ready Network Design with Public/Private Subnet Segmentation
 Show Image
 Show Image
 Show Image
@@ -7,7 +7,7 @@ Show Image
 </div>
 
 🎯 PROJECT OVERVIEW
-This project demonstrates a production-grade VPC architecture that follows AWS networking best practices. It's not just "create a VPC and some subnets"—it's a fully segmented, secure, and scalable network foundation that enterprise applications are built on.
+This project demonstrates a productionproduction-grade VPC architecture that follows AWS networking best practices. It's not just "create a VPC and some subnets"—it's a fully segmented, secure, and scalable network foundation that enterprise applications are built on.
 Why This Matters
 VPC design is the foundation of everything in AWS. Get this wrong and you'll face:
 
